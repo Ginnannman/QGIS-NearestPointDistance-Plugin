@@ -10,10 +10,10 @@ version=0.1
 author=Ginnannman
 email=ginnannman@gmail.com
 
-about=This plugin can find the point that is closest to a given point. Distance Matrix processing in QGIS sometimes outoputs a wrong answer for Nearest Neighbor search.
+about=This plugin seargn for the point that is closest to a given point. Distance Matrix processing in QGIS sometimes outoputs a wrong answer for Nearest Neighbor search. This plugin can improve this problem.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/Ginnannman/QGIS-NearestPointDistance-Plugin/
+repository=https://github.com/Ginnannman/QGIS-NearestPointDistance-Plugin/
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=yes
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/Ginnannman/QGIS-NearestPointDistance-Plugin/
 category=Analysis
 icon=icon.png
 # experimental flag
