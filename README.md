@@ -13,4 +13,4 @@ You have to download this repository to your local by clicking "Download ZIP". T
 
 ## System Requirements
 
-This plugin was tested with QGIS version >= 3.0.
+This plugin was tested with QGIS version >= 3.10.
